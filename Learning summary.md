@@ -19,5 +19,4 @@ Once a pull request is opened, you can discuss and review the potential changes 
 
 ## 感想
 
-通过这节课我了解和学习了Github的相关知识，学习了如何使用Github，并且克隆课程仓库到自己账号下的仓库，学会了如何将修改后的文件上传到原仓库。
-除了Github，我还学习了如何写markdown文件，并且在创建同名仓库后，我写了一个自述文件来介绍自己。
+Through this lesson, I learned about GitHub, learned how to use GitHub, cloned the course warehouse to the warehouse under my own account, and learned how to upload the modified file to the original warehouse. In addition to GitHub, I also learned how to write markdown files, and after creating a warehouse with the same name, I wrote a readme file to introduce myself.
